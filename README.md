@@ -6,7 +6,7 @@ This is an ongoing section in which each data analytic project includes my SQL c
 
 ## My Skills and Previous Experience
 Credit lending and Investing in the Canadian Banking sector (B.Comm acquired 2006)
-Over a decade of teaching at McGill University (M.A. acquired in 2012, Ph.D in 2020)
+Over a decade of teaching at McGill University (M.A. acquired in 2012, PhD in 2020)
 Data cleaning, validation, and analysis
 Database design and modelling
 Dashboard development and reporting
@@ -17,7 +17,8 @@ Databases: SQL, Excel
 Visualisation: Tableau
 
 ## Connect with Me 
-Linkedin
+LinkedIn
+[LinkedIn]([https://github.com](https://www.linkedin.com/in/patricio-kobek/)
 
 
 
