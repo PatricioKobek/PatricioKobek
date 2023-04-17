@@ -17,7 +17,6 @@ Databases: SQL, Excel
 Visualisation: Tableau
 
 ## Connect with Me 
-[LinkedIn]([https://github.com](https://www.linkedin.com/in/patricio-kobek/))
 [LinkedIn](https://www.linkedin.com/in/patricio-kobek/)
 
 
